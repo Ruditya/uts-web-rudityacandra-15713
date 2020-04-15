@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uts-web-rudityacandra-15713/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/uts-web-rudityacandra-15713/static/js/main.50b06698.chunk.js",
+    "main.js.map": "/uts-web-rudityacandra-15713/static/js/main.50b06698.chunk.js.map",
+    "runtime-main.js": "/uts-web-rudityacandra-15713/static/js/runtime-main.bc38b26e.js",
+    "runtime-main.js.map": "/uts-web-rudityacandra-15713/static/js/runtime-main.bc38b26e.js.map",
+    "static/css/2.69121389.chunk.css": "/uts-web-rudityacandra-15713/static/css/2.69121389.chunk.css",
+    "static/js/2.c39e3bc8.chunk.js": "/uts-web-rudityacandra-15713/static/js/2.c39e3bc8.chunk.js",
+    "static/js/2.c39e3bc8.chunk.js.map": "/uts-web-rudityacandra-15713/static/js/2.c39e3bc8.chunk.js.map",
+    "index.html": "/uts-web-rudityacandra-15713/index.html",
+    "precache-manifest.9aa328017441d7072c6dc4275b705b24.js": "/uts-web-rudityacandra-15713/precache-manifest.9aa328017441d7072c6dc4275b705b24.js",
+    "service-worker.js": "/uts-web-rudityacandra-15713/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/uts-web-rudityacandra-15713/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/uts-web-rudityacandra-15713/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c39e3bc8.chunk.js.LICENSE.txt": "/uts-web-rudityacandra-15713/static/js/2.c39e3bc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc38b26e.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.c39e3bc8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.50b06698.chunk.js"
+  ]
+}
